@@ -1,2 +1,3 @@
-2026/03/16-21:35:15.087 6704 Creating DB E:\Program Files\Epic Games\Light-House\Lighthouse\Saved\webcache_6613\Default\shared_proto_db since it was missing.
-2026/03/16-21:35:15.093 6704 Reusing MANIFEST E:\Program Files\Epic Games\Light-House\Lighthouse\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/03/17-17:31:08.639 d9c Reusing MANIFEST E:\Program Files\Epic Games\Light-House\Lighthouse\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/03/17-17:31:08.645 d9c Recovering log #3
+2026/03/17-17:31:08.645 d9c Reusing old log E:\Program Files\Epic Games\Light-House\Lighthouse\Saved\webcache_6613\Default\shared_proto_db/000003.log 
