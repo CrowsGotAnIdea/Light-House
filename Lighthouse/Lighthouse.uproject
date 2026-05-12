@@ -26,6 +26,10 @@
 		{
 			"Name": "LandscapePatch",
 			"Enabled": true
+		},
+		{
+			"Name": "HotspotMaker",
+			"Enabled": true
 		}
 	]
 }
