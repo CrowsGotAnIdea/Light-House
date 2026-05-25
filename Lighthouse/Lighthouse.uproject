@@ -38,10 +38,6 @@
 		{
 			"Name": "SocketSubsystemSteamIP",
 			"Enabled": true
-		},
-		{
-			"Name": "HotspotMaker",
-			"Enabled": true
 		}
 	]
 }
